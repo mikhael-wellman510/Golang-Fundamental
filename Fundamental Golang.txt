@@ -1,0 +1,27 @@
+Fundamental Golang
+
+Instalasi
+1. Download Golang Compiler
+2. Cek di terminal -> go version 
+
+A. Buat Project = (Module)
+1. go mod init nama-module  -> Di terminal
+
+=============== 00000000 ==============
+a. Menjalankan program
+1. go build helloworld.go
+2. ./helloworld
+
+
+b. Menjalankan program tanpa kompilasi
+1. go run helloworld.go
+
+=============== 00000000 ===============
+golang tidak boleh mempunyai main func yang sama walaupun berbeda folder
+
+=============== 00000000 ===============
+1. package -> kumpulan file Go
+2. module ->  kumpulan package yang membentuk proyek atau library
+
+analogi nya-> package adalah bab di dalam buku
+sedangkan module adalah . buku itu sendiri
