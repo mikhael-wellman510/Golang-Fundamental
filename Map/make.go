@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+
+	// Jika make , biasanya bisa membuat capacity .
 	book := make(map[string]string)
 
 	book["Judul"] = "Hantu Jembatan Ancol"
