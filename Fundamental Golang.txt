@@ -25,3 +25,15 @@ golang tidak boleh mempunyai main func yang sama walaupun berbeda folder
 
 analogi nya-> package adalah bab di dalam buku
 sedangkan module adalah . buku itu sendiri
+
+
+================= 000 =====================
+Tipe Data Slice
+
+1. pointer , length , capacity
+a. pointer penunjuk data pertama di array para Slice
+b. length = panjang Slice
+c. capacity = kapasitas dari slice , length tidak boleh lebih dari capacity
+
+[...] / [3] -> Ini adalah array
+[] ini adalah slice
