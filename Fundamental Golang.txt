@@ -37,3 +37,10 @@ c. capacity = kapasitas dari slice , length tidak boleh lebih dari capacity
 
 [...] / [3] -> Ini adalah array
 [] ini adalah slice
+
+
+========= Thread ======
+
+memahami thread itu seperti kita di kasir ,
+jika antrian nya ada 12 orang . akan lebih cepat jika kita mempunyai 2 orang kasir
+dibandingkan harus 1 kasir dan sampai selesai
